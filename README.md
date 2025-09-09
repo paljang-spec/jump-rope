@@ -1,4 +1,3 @@
-# jump-rope
 <!DOCTYPE html>
 <html lang="ko">
 <head>
